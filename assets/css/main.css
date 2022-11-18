@@ -329,7 +329,7 @@ header #menu-btn:hover{
 }
 
 .about .image img{
-    width: 100%;
+    width: 150%;
     border: 1rem solid var(--purple);
 }
 
