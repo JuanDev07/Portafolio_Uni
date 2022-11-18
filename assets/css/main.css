@@ -333,6 +333,11 @@ header #menu-btn:hover{
     border: 1rem solid var(--purple);
 }
 
+.about .image2 img{
+    width: 100%;
+    border: 1rem solid var(--purple);
+}
+
 .about .content{
     -webkit-box-flex: 1;
     -ms-flex: 1 1 55rem;
